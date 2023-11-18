@@ -1,5 +1,5 @@
 # NM-LICET-GROUP7
-## This project is a collaborative effort by Group 7, consisting of CSE students enrolled in the Naan Mudhalvan 2023 - Full Stack Development with Java course.
+## This project is a collaborative effort by Group 7, consisting of CSE students of Loyola-ICAM College of Engineering and Technology, enrolled in the Naan Mudhalvan - Full Stack Development with Java course for the academic year 2023-2024.
 The members of this group are:
 * 311120104007 - ANTONY JUDE SHAMAN A
 * 311120104013	- BABIANA ROY R
