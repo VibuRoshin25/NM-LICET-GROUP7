@@ -1,20 +1,15 @@
 # NM-LICET-GROUP7
 #### This project is a collaborative effort by Group 7, consisting of CSE students of Loyola-ICAM College of Engineering and Technology, enrolled in the Naan Mudhalvan - Full Stack Development with Java course for the Academic Year 2023-2024.
-The members of this group are:
+
+# SOFTWARE REQUIREMENTS SPECIFICATION
+## For To-Do List Application
+### Prepared by:
 | Roll Number       | Member Name          |
 |-------------------|----------------------|
 | 311120104007      | ANTONY JUDE SHAMAN A |
 | 311120104013      | BABIANA ROY R        |
 | 311120104015      | DANUSH ATHITHYA R K  |
 | 311120104062      | VIBU ROSHIN E V      |
-
-# SOFTWARE REQUIREMENTS SPECIFICATION
-## For To-Do List Application
-### Prepared by:
-Antony Jude Shaman
-Babiana Roy
-Danush Athithya R K
-Vibu Roshin E V
 ### Academic Year: 2023-2024
 ### Department of Computer Science and Engineering
 Loyola-ICAM College of Engineering and Technology
@@ -43,6 +38,7 @@ The To-Do List Application is designed to operate as a standalone system, provid
 
 ### 2.2. Use Case Diagram
 ![Use Case Diagram](link_to_diagram_image)
+
 
 ### 2.3. Product Function
 The core functionality of the To-Do List Application centers around efficient task management, enabling users to organize and prioritize their activities seamlessly. The application facilitates the creation, editing, and deletion of tasks, with each task having essential details such as a title, description, due date, and priority level. Tasks can be organized into categories or projects, offering users flexible organization options.
