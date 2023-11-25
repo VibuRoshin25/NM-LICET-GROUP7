@@ -37,14 +37,14 @@ Entire document should be justified.
 The To-Do List Application is designed to operate as a standalone system, providing users with a centralized and organized platform for efficient task management. It functions independently, allowing users to create, manage, and collaborate on tasks seamlessly. While it operates independently, the application recognizes the importance of integration with external calendars and task management tools to enhance user productivity.
 
 ### 2.2. Use Case Diagram
-![Use Case Diagram](link_to_diagram_image)
+![Usecase diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/ed25223f-71af-415a-b97f-b52b1102ad21)
 
 
 ### 2.3. Product Function
 The core functionality of the To-Do List Application centers around efficient task management, enabling users to organize and prioritize their activities seamlessly. The application facilitates the creation, editing, and deletion of tasks, with each task having essential details such as a title, description, due date, and priority level. Tasks can be organized into categories or projects, offering users flexible organization options.
 
 ### 2.4. ER Diagram
-![ER Diagram](link_to_diagram_image)
+![ER Diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/84c0254f-fbcb-40b7-990f-1cd5f45c82ad)
 
 ### 2.5. User Classes and Characteristics
 The E-Commerce website will accommodate two primary user classes, each with distinct characteristics and functionalities:
@@ -142,3 +142,6 @@ The To-Do List Application boasts a user interface meticulously crafted for an i
 
 ## 6. Other Requirements
 ### 6.1. Class Diagram
+
+![class diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/67c58fa0-fa13-463c-a037-e67c702cd0a6)
+
