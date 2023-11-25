@@ -1,20 +1,15 @@
-# NM-LICET-GROUP7
+# NM-LICET-GROUP7 - To-Do List
 #### This project is a collaborative effort by Group 7, consisting of CSE students of Loyola-ICAM College of Engineering and Technology, enrolled in the Naan Mudhalvan - Full Stack Development with Java course for the Academic Year 2023-2024.
-The members of this group are:
+
+# SOFTWARE REQUIREMENTS SPECIFICATION
+## For To-Do List Application
+### Prepared by:
 | Roll Number       | Member Name          |
 |-------------------|----------------------|
 | 311120104007      | ANTONY JUDE SHAMAN A |
 | 311120104013      | BABIANA ROY R        |
 | 311120104015      | DANUSH ATHITHYA R K  |
 | 311120104062      | VIBU ROSHIN E V      |
-
-# SOFTWARE REQUIREMENTS SPECIFICATION
-## For To-Do List Application
-### Prepared by:
-Antony Jude Shaman
-Babiana Roy
-Danush Athithya R K
-Vibu Roshin E V
 ### Academic Year: 2023-2024
 ### Department of Computer Science and Engineering
 Loyola-ICAM College of Engineering and Technology
@@ -42,13 +37,14 @@ Entire document should be justified.
 The To-Do List Application is designed to operate as a standalone system, providing users with a centralized and organized platform for efficient task management. It functions independently, allowing users to create, manage, and collaborate on tasks seamlessly. While it operates independently, the application recognizes the importance of integration with external calendars and task management tools to enhance user productivity.
 
 ### 2.2. Use Case Diagram
-![Use Case Diagram](link_to_diagram_image)
+![Usecase diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/ed25223f-71af-415a-b97f-b52b1102ad21)
+
 
 ### 2.3. Product Function
 The core functionality of the To-Do List Application centers around efficient task management, enabling users to organize and prioritize their activities seamlessly. The application facilitates the creation, editing, and deletion of tasks, with each task having essential details such as a title, description, due date, and priority level. Tasks can be organized into categories or projects, offering users flexible organization options.
 
 ### 2.4. ER Diagram
-![ER Diagram](link_to_diagram_image)
+![ER Diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/84c0254f-fbcb-40b7-990f-1cd5f45c82ad)
 
 ### 2.5. User Classes and Characteristics
 The E-Commerce website will accommodate two primary user classes, each with distinct characteristics and functionalities:
@@ -146,3 +142,6 @@ The To-Do List Application boasts a user interface meticulously crafted for an i
 
 ## 6. Other Requirements
 ### 6.1. Class Diagram
+
+![class diagram](https://github.com/VibuRoshin25/NM-LICET-GROUP7/assets/105967620/67c58fa0-fa13-463c-a037-e67c702cd0a6)
+
